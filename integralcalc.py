@@ -1,3 +1,5 @@
+# Integral calculator
+
 def integrate(f,a,b,n,method):
     dx = (b-a) / n 
     if method == "simpson":
