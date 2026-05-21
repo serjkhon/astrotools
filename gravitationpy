@@ -23,4 +23,4 @@ def escapevelocity(m1,d):
 
 print("Gravitational force is: ", gravitationalforce(EarthMass, MoonMass, 3.8 * 10**8))
 print("Acceleration is: ", acceleration(EarthMass, EarthRadius))
-print("Escape velocoty is: ", escapevelocity(EarthMass, EarthRadius))
+print("Escape velocity is: ", escapevelocity(EarthMass, EarthRadius))
